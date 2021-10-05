@@ -267,6 +267,8 @@ main
 .kontakt-container .box-image
 {
     margin: auto;
+    opacity: 0.8;
+    box-shadow: 0 0 2px 1px #7e7474;
 }
 .kontakt-container .box-1 ul,
 .kontakt-container .box-2 ul,
